@@ -1,0 +1,6 @@
+*-* > .gitignore
+cat gitignore
+cd 0x03-git
+cd alx-precourse
+.gitignore git add.
+echo *-*
